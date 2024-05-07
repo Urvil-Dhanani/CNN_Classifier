@@ -1,2 +1,9 @@
 # General_Template
-General template  
+
+Create a vertual environment --> conda create --prefix ./env -y
+
+conda activate ./env
+
+
+
+

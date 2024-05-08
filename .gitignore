@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 env/
+archive.zip
+*.jpg
+_DS_Store

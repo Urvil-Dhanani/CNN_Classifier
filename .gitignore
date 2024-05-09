@@ -163,3 +163,6 @@ env/
 archive.zip
 *.jpg
 _DS_Store
+
+Bad_data/
+log_CNN_example

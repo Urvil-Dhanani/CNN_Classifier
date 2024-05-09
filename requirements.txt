@@ -1,5 +1,5 @@
 mlflow
 tensorflow
-notebook
+notebook==6.1.1
 numpy
 tqdm

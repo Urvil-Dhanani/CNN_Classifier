@@ -10,4 +10,3 @@
 
 #3 Install the requirements 
   --> conda install -r requirements.txt
-
